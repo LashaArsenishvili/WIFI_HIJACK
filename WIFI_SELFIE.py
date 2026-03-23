@@ -54,8 +54,8 @@ UPSTREAM_IFACE = None
 
 # ──────────────── TELEGRAM CONFIG ────────────────
 # CHANGE THESE TWO LINES !!!
-TELEGRAM_BOT_TOKEN = "8179489115:AAF98kAnJh8tWzltmnq0zME2n9Gq4qFrSa4"   # ← your bot token
-TELEGRAM_CHAT_ID   = "8597195242"                                  # or "-1001987654321"
+TELEGRAM_BOT_TOKEN = ""   # ← your bot token
+TELEGRAM_CHAT_ID   = ""                                  # or "-1001987654321"
 # ────────────────────────────────────────────────
 
 # =========================================================
